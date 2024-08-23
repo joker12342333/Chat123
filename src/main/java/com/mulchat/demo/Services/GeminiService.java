@@ -26,8 +26,8 @@ import com.mulchat.demo.Entities.Users;
 // Remove the invalid line of code
 public class GeminiService {
 
-    private static final String PROJECT_ID = "graphite-pad-433303-r4";
-    private static final String LOCATION = "me-central1 (us-central1)";
+    private static final String PROJECT_ID = "";
+    private static final String LOCATION = "";
     private static final String MODEL_NAME = "gemini-1.5-flash-001";
     
 
